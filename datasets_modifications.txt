@@ -1,0 +1,1 @@
+The original files had what appeared to be a bug which I fixed. The titles of the last two columns were merged together.
